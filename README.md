@@ -1,8 +1,18 @@
 # BAU GDSC Event Speech Project
 
-**Note: This project is designed for my upcoming speech at the BAU GDSC event. I will be discussing various Flutter development concepts and techniques during the presentation.**
+**Note: This project is designed for my speech at the BAU GDSC event.**
 
 This repository contains a Flutter project created for the BAU GDSC event. In this project, we will cover various aspects of Flutter development, including state management, API calls, UI design, JSON parsing, and component creation.
+
+## Resources Used
+
+- [Rick and Morty API Documentation](https://rickandmortyapi.com/documentation): This API documentation guided us in making requests to the Rick and Morty API.
+
+- [Quicktype](https://quicktype.io/): Quicktype is a valuable tool that helped us generate Dart models from JSON data efficiently.
+
+- [GetX State Manager](https://pub.dev/packages/get): GetX package used in project for state management.
+
+- [HTTP Package](https://pub.dev/packages/http): The HTTP package was essential for handling network requests and data retrieval.
 
 ## Project Overview
 
@@ -28,4 +38,4 @@ To get started with this project, follow these steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yazicifatihcan/bau_gdsc_101_event.git
+   git clone https://github.com/yourusername/bau-gdsc-event.git
